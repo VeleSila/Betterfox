@@ -199,6 +199,29 @@ user_pref("browser.download.open_pdf_attachments_inline", true);
 user_pref("browser.bookmarks.openInTabClosesMenu", false);
 user_pref("findbar.highlightAll", true);
 
+/** LOG LEVEL ***/
+user_pref("browser.esedbreader.loglevel", "Off");
+user_pref("browser.ml.logLevel", "Off");
+user_pref("browser.sanitizer.loglevel", "Off");
+user_pref("browser.smartwindow.smartbarMentions.loglevel", "Off");
+user_pref("browser.startup.homepage.abouthome_cache.loglevel", "Off");
+user_pref("browser.translations.logLevel", "Off");
+user_pref("browser.uitour.loglevel", "Off");
+user_pref("captchadetection.loglevel", "Off");
+user_pref("dom.push.loglevel", "Off");
+user_pref("dom.webnotifications.loglevel", "Off");
+user_pref("extensions.formautofill.loglevel", "Off");
+user_pref("places.loglevel", "Off");
+user_pref("privacy.fingerprintingProtection.WebCompatService.logLevel", "Off");
+user_pref("privacy.query_stripping.listService.logLevel", "Off");
+user_pref("privacy.resistFingerprinting.jsmloglevel", "Off");
+user_pref("toolkit.download.loglevel", "Off");
+user_pref("toolkit.osKeyStore.loglevel", "Off");
+user_pref("toolkit.telemetry.dap.logLevel", "Off");
+user_pref("toolkit.telemetry.translations.logLevel", "Off");
+user_pref("toolkit.telemetry.user_characteristics_ping.logLevel", "Off");
+user_pref("browser.sessionstore.loglevel", "Off");
+
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
 ****************************************************************************/
