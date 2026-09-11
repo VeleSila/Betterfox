@@ -222,6 +222,9 @@ user_pref("toolkit.telemetry.translations.logLevel", "Off");
 user_pref("toolkit.telemetry.user_characteristics_ping.logLevel", "Off");
 user_pref("browser.sessionstore.loglevel", "Off");
 
+/** Improve Fingerprint Performance ***/
+user_pref("privacy.resistFingerprinting.randomization.canvas.use_siphash", true);
+
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
 ****************************************************************************/
